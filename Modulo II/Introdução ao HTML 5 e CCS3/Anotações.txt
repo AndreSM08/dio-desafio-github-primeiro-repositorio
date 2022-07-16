@@ -1,0 +1,4 @@
+No começo achei que seria um pesadelo pois não entendi muito bem a primeira vídeo aula e sequer foi passado o link para download do VSCode, mas após uma pesquisada consegui encotnrar qual estava sendo usado no vídeo.
+Obs.: O professor falou o nome mas eu acabei entendo BashCode
+
+Ao longo das vídeos aulas e materias de apoio tenho compreendido e desolvido ideias sobre como e o que fazer com o layout do "meu site"
